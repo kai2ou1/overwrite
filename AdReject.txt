@@ -2,5 +2,5 @@
 # AUTHOR: kai2ou
 # UPDATED: 2025-09-11 09:17:30
 # TOTAL: 2
-ap.dongqiudi.com
-pangolin-sdk-toutiao.com
+DOMAIN,ap.dongqiudi.com
+DOMAIN,pangolin-sdk-toutiao.com
