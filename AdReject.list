@@ -1,6 +1,22 @@
 # NAME: NoAd
 # AUTHOR: kai2ou
 # UPDATED: 2025-09-11 09:17:30
+# UPDATED: 2026-10-05 17:17:30
 # TOTAL: 2
 DOMAIN,ap.dongqiudi.com
 DOMAIN,pangolin-sdk-toutiao.com
+
+# 红果核心广告拦截（必加）
+DOMAIN-SUFFIX,hongguoapp.com
+DOMAIN-SUFFIX,hongguosdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-KEYWORD,ad-union-sdk
+DOMAIN-KEYWORD,be-pack
+DOMAIN-KEYWORD,hongguo.ad
+
+# 字节系广告兜底（红果隶属字节）
+DOMAIN-SUFFIX,ad.pangle.cn
+DOMAIN-SUFFIX,ad.pangolin.cn
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-KEYWORD,tnc.snssdk
