@@ -1,8 +1,7 @@
 # NAME: NoAd
 # AUTHOR: kai2ou
-# UPDATED: 2025-09-11 09:17:30
-# UPDATED: 2026-10-05 17:17:30
-# TOTAL: 2
+# UPDATED: 2026-10-16
+# TOTAL: 120
 DOMAIN,ap.dongqiudi.com
 DOMAIN,pangolin-sdk-toutiao.com
 
@@ -24,55 +23,102 @@ DOMAIN-KEYWORD,tnc.snssdk
 #!name=淘宝
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/rewrite/split/partT/Taobao.snippet
-host-suffix, apoll.m.taobao.com, reject
-host-suffix, h-adashx.ut.taobao.com, reject
-host-suffix, w.m.taobao.com, reject
-host, tunion-api.m.taobao.com, reject
-# host-suffix, ai.m.taobao.com, reject
-host-suffix, re.m.taobao.com, reject
-host-suffix, agoodm.m.taobao.com, reject
-host-suffix, ai.taobao.com, reject
-host-suffix, api.waptest.taobao.com, reject
-host-suffix, dsp.simba.taobao.com, reject
-host-suffix, fav.simba.taobao.com, reject
-host-suffix, m.simba.taobao.com, reject
-host-suffix, mclick.simba.taobao.com, reject
-host-suffix, re.taobao.com, reject
-host-suffix, redirect.simba.taobao.com, reject
-host-suffix, simba.m.taobao.com, reject
-host-suffix, srd.simba.taobao.com, reject
-host-suffix, temai.taobao.com, reject
-host-suffix, textlink.simba.taobao.com, reject
-host-suffix, unitacs.m.taobao.com, reject
-host-suffix, acs4baichuan.m.taobao.com, reject
-host-suffix, adashbc.ut.taobao.com, reject
-host-suffix, adash-c.ut.taobao.com, reject
-host-suffix, adashxgc.ut.taobao.com, reject
-host-suffix, adashx4yt.m.taobao.com, reject
-host-suffix, tunion-api.m.taobao.com, reject
-host-suffix, tns.simba.taobao.com, reject
-host-suffix, click.mz.simba.taobao.com, reject
-host-suffix, click.simba.taobao.com, reject
-host-suffix, click.tz.simba.taobao.com, reject
-host-suffix, stat.simba.taobao.com, reject
-host-suffix, m-adash.m.taobao.com, reject
-host-suffix, adashbc.m.taobao.com, reject
+host-suffix, apoll.m.taobao.com
+host-suffix, h-adashx.ut.taobao.com
+host-suffix, w.m.taobao.com
+host, tunion-api.m.taobao.com
+host-suffix, re.m.taobao.com
+host-suffix, agoodm.m.taobao.com
+host-suffix, ai.taobao.com
+host-suffix, api.waptest.taobao.com
+host-suffix, dsp.simba.taobao.com
+host-suffix, fav.simba.taobao.com
+host-suffix, m.simba.taobao.com
+host-suffix, mclick.simba.taobao.com
+host-suffix, re.taobao.com
+host-suffix, redirect.simba.taobao.com
+host-suffix, simba.m.taobao.com
+host-suffix, srd.simba.taobao.com
+host-suffix, temai.taobao.com
+host-suffix, textlink.simba.taobao.com
+host-suffix, unitacs.m.taobao.com
+host-suffix, acs4baichuan.m.taobao.com
+host-suffix, adashbc.ut.taobao.com
+host-suffix, adash-c.ut.taobao.com
+host-suffix, adashxgc.ut.taobao.com
+host-suffix, adashx4yt.m.taobao.com
+host-suffix, tunion-api.m.taobao.com
+host-suffix, tns.simba.taobao.com
+host-suffix, click.mz.simba.taobao.com
+host-suffix, click.simba.taobao.com
+host-suffix, click.tz.simba.taobao.com
+host-suffix, stat.simba.taobao.com
+host-suffix, m-adash.m.taobao.com
+host-suffix, adashbc.m.taobao.com
+
 # 广告大全
-host-suffix,metrics.icloud.com
-host-suffix,rmonitor.qq.com
-host-suffix,sjarvis.taobao.com
-host-suffix,apmplus.volces.com
-host-suffix,pro.bugly.qq.com
-host-suffix,app-analytics-services.com
-host-suffix,firebaselogging-pa.googleapis.com
-host-suffix,googleads.g.doubleclick-cn.net
-host-suffix,adashx.m.taobao.com
-host-suffix,dorangesource.alicdn.com
-host-suffix,amdc.alipay.com
-host-suffix,loggw-ex.alipay.com
-host-suffix,mum.alibabachengdun.com
-host-suffix,client-upload.cn-shanghai.log.aliyuncs.com
-host-suffix,impaas-for-client.cn-shanghai.log.aliyuncs.com
-host-suffix,dualstack-logs.amap.com
-host-suffix,logs.amap.com
-host-suffix,h-adashx.ut.taobao.com
+host-suffix, metrics.icloud.com
+host-suffix, rmonitor.qq.com
+host-suffix, sjarvis.taobao.com
+host-suffix, apmplus.volces.com
+host-suffix, pro.bugly.qq.com
+host-suffix, app-analytics-services.com
+host-suffix, firebaselogging-pa.googleapis.com
+host-suffix, googleads.g.doubleclick-cn.net
+host-suffix, adashx.m.taobao.com
+host-suffix, dorangesource.alicdn.com
+host-suffix, amdc.alipay.com
+host-suffix, loggw-ex.alipay.com
+host-suffix, mum.alibabachengdun.com
+host-suffix, client-upload.cn-shanghai.log.aliyuncs.com
+host-suffix, impaas-for-client.cn-shanghai.log.aliyuncs.com
+host-suffix, dualstack-logs.amap.com
+host-suffix, logs.amap.com
+host-suffix, h-adashx.ut.taobao.com
+
+# 淘宝系
+host-suffix, log-api.pangolin-sdk-toutiao.com
+host-suffix, alivc-aio.cn-hangzhou.log.aliyuncs.com
+host-suffix, api-access.pangolin-sdk-toutiao-b.com
+host-suffix, gromore.pangolin-sdk-toutiao.com
+host-suffix, abtest.alibaba.com
+host-suffix, tnc3-bjlgy.zijieapi.com
+host-suffix, px.ucweb.com
+host-suffix, mssdk.volces.com
+host-suffix, api-access.pangolin-sdk-toutiao1.com
+
+# 京东
+host-suffix, policy.jd.com
+host-suffix, jpushjd.m.jd.com
+host-suffix, im-x.jd.com
+
+# 天虹
+host-suffix, sis.jpush.io
+host-suffix, stats.jpush.cn
+host-suffix, gd-stats.jpush.cn
+host-suffix, tsis.jpush.cn
+host-suffix, ali-stats.jpush.cn
+host-suffix, config.jpush.cn
+host-suffix, alogs.umengcloud.com
+host-suffix, uop.umeng.com
+host-suffix, alogs.umeng.com
+host-suffix, s.jpush.cn
+host-suffix, user.jpush.cn
+host-suffix, easytomessage.com
+
+# 夸克
+host-suffix, px.wpk.quark.cn
+host-suffix, track.uc.cn
+host-suffix, pads.ucweb.com
+host-suffix, ucus.ucweb.com
+host-suffix, applog.lc.quark.cn
+host-suffix, mesu.apple.com
+host-suffix, badjs.weixinbridge.com
+
+# edge
+host-suffix, browser.events.data.msn.cn
+host-suffix, analytics.adjust.io
+host-suffix, analytics.adjust.com
+
+#招商银行
+host-suffix, sofire.baidu.com
