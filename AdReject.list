@@ -57,3 +57,22 @@ host-suffix, click.tz.simba.taobao.com, reject
 host-suffix, stat.simba.taobao.com, reject
 host-suffix, m-adash.m.taobao.com, reject
 host-suffix, adashbc.m.taobao.com, reject
+# 广告大全
+host-suffix,metrics.icloud.com
+host-suffix,rmonitor.qq.com
+host-suffix,sjarvis.taobao.com
+host-suffix,apmplus.volces.com
+host-suffix,pro.bugly.qq.com
+host-suffix,app-analytics-services.com
+host-suffix,firebaselogging-pa.googleapis.com
+host-suffix,googleads.g.doubleclick-cn.net
+host-suffix,adashx.m.taobao.com
+host-suffix,dorangesource.alicdn.com
+host-suffix,amdc.alipay.com
+host-suffix,loggw-ex.alipay.com
+host-suffix,mum.alibabachengdun.com
+host-suffix,client-upload.cn-shanghai.log.aliyuncs.com
+host-suffix,impaas-for-client.cn-shanghai.log.aliyuncs.com
+host-suffix,dualstack-logs.amap.com
+host-suffix,logs.amap.com
+host-suffix,h-adashx.ut.taobao.com
