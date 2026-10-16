@@ -1,7 +1,7 @@
 # NAME: NoAd
 # AUTHOR: kai2ou
 # UPDATED: 2026-10-16
-# TOTAL: 120
+# TOTAL: 60
 DOMAIN,ap.dongqiudi.com
 DOMAIN,pangolin-sdk-toutiao.com
 
@@ -74,7 +74,6 @@ host-suffix, client-upload.cn-shanghai.log.aliyuncs.com
 host-suffix, impaas-for-client.cn-shanghai.log.aliyuncs.com
 host-suffix, dualstack-logs.amap.com
 host-suffix, logs.amap.com
-host-suffix, h-adashx.ut.taobao.com
 
 # 淘宝系
 host-suffix, log-api.pangolin-sdk-toutiao.com
@@ -122,3 +121,16 @@ host-suffix, analytics.adjust.com
 
 #招商银行
 host-suffix, sofire.baidu.com
+
+#微博
+host-suffix, gdfp.gifshow.com
+host-suffix, open.e.kuaishou.com
+host-suffix, mi.gdt.qq.com
+host-suffix, sdk.e.qq.com
+host-suffix, adstrategy.biz.weibo.com
+host-suffix, bootrealtime.uve.weibo.com
+host-suffix, bootpreload.uve.weibo.com
+host-suffix, ulogs.umengcloud.com
+host-suffix, ulogs.umeng.com
+host-suffix, ios.bugly.qq.com
+host-suffix, utoken.umeng.com
